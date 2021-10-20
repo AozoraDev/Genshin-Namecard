@@ -1,0 +1,272 @@
+[
+   {
+      "name":"Frostbearing - Ancient Tree",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/permanent/Namecard_Background_Frostbearing_Ancient_Tree.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/permanent/Item_Frostbearing_Ancient_Tree.png",
+      "type":"permanent"
+   },
+   {
+      "name":"Genshin Impact - A New World",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/permanent/Namecard_Background_Genshin_Impact_A_New_World.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/permanent/Item_Genshin_Impact_A_New_World.png",
+      "type":"permanent"
+   },
+   {
+      "name":"Inazuma - Sacred Sakura",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/permanent/Namecard_Background_Inazuma_Sacred_Sakura.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/permanent/Item_Inazuma_Sacred_Sakura.png",
+      "type":"permanent"
+   },
+   {
+      "name":"Achievement - Bowmaster",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Achievement_Bowmaster.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Achievement_Bowmaster.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Achievement - Challenger",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Achievement_Challenger.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Achievement_Challenger.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Achievement - Challenger II",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Achievement_Challenger_II.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Achievement_Challenger_II.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Achievement - Challenger III",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Achievement_Challenger_III.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Achievement_Challenger_III.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Achievement - Cliffhanger",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Achievement_Cliffhanger.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Achievement_Cliffhanger.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Achievement - Colors of the Rainbow",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Achievement_Colors_of_the_Rainbow.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Achievement_Colors_of_the_Rainbow.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Achievement - Deep & Dark",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Achievement_Deep_%26_Dark.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Achievement_Deep_%26_Dark.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Achievement - Explorer",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Achievement_Explorer.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Achievement_Explorer.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Achievement - Full Bloom",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Achievement_Full_Bloom.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Achievement_Full_Bloom.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Achievement - Gate",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Achievement_Gate.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Achievement_Gate.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Achievement - Hero",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Achievement_Hero.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Achievement_Hero.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Achievement - Hill Dwellers",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Achievement_Hill_Dwellers.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Achievement_Hill_Dwellers.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Achievement - Nails",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Achievement_Nails.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Achievement_Nails.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Achievement - Reunion",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Achievement_Reunion.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Achievement_Reunion.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Achievement - Snowy Land",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Achievement_Snowy_Land.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Achievement_Snowy_Land.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Achievement - Snowy Summit",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Achievement_Snowy_Summit.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Achievement_Snowy_Summit.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Achievement - Stone Dragon",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Achievement_Stone_Dragon.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Achievement_Stone_Dragon.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Achievement - Tea Time",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Achievement_Tea_Time.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Achievement_Tea_Time.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Achievement - Traversal",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Achievement_Traversal.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Achievement_Traversal.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Achievement - Vacation Home",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Achievement_Vacation_Home.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Achievement_Vacation_Home.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Achievement - Virtuoso",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Achievement_Virtuoso.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Achievement_Virtuoso.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Celebration - Tuneful Delight",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Celebration_Tuneful_Delight.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Celebration_Tuneful_Delight.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Inazuma - Kujou Insignia",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Inazuma_Kujou_Insignia.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Inazuma_Kujou_Insignia.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Inazuma - Sangonomiya Crest",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Inazuma_Sangonomiya_Crest.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Inazuma_Sangonomiya_Crest.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Liyue - Stillness of Stone",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Liyue_Stillness_of_Stone.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Liyue_Stillness_of_Stone.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Mondstadt - Whistling Wind",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Mondstadt_Whistling_Wind.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Mondstadt_Whistling_Wind.png",
+      "type":"achievement"
+   },
+   {
+      "name":"Travel Notes - Catch the Wind",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/battlepass/Namecard_Background_Travel_Notes_Catch_the_Wind.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/battlepass/Item_Travel_Notes_Catch_the_Wind.png",
+      "type":"battlepass"
+   },
+   {
+      "name":"Travel Notes - Chalk",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/battlepass/Namecard_Background_Travel_Notes_Chalk.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/battlepass/Item_Travel_Notes_Chalk.png",
+      "type":"battlepass"
+   },
+   {
+      "name":"Travel Notes - Fading Star",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/battlepass/Namecard_Background_Travel_Notes_Fading_Star.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/battlepass/Item_Travel_Notes_Fading_Star.png",
+      "type":"battlepass"
+   },
+   {
+      "name":"Travel Notes - Grand Narukami Shrine",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/battlepass/Namecard_Background_Travel_Notes_Grand_Narukami_Shrine.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/battlepass/Item_Travel_Notes_Grand_Narukami_Shrine.png",
+      "type":"battlepass"
+   },
+   {
+      "name":"Travel Notes - Heavenly General",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/battlepass/Namecard_Background_Travel_Notes_Heavenly_General.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/battlepass/Item_Travel_Notes_Heavenly_General.png",
+      "type":"battlepass"
+   },
+   {
+      "name":"Travel Notes - Midsummer",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/battlepass/Namecard_Background_Travel_Notes_Midsummer.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/battlepass/Item_Travel_Notes_Midsummer.png",
+      "type":"battlepass"
+   },
+   {
+      "name":"Travel Notes - Mingxiao",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/battlepass/Namecard_Background_Travel_Notes_Mingxiao.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/battlepass/Item_Travel_Notes_Mingxiao.png",
+      "type":"battlepass"
+   },
+   {
+      "name":"Travel Notes - Moonchaser",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/battlepass/Namecard_Background_Travel_Notes_Moonchaser.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/battlepass/Item_Travel_Notes_Moonchaser.png",
+      "type":"battlepass"
+   },
+   {
+      "name":"Travel Notes - Sub-Space Recreation",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/battlepass/Namecard_Background_Travel_Notes_Sub-Space_Recreation.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/battlepass/Item_Travel_Notes_Sub-Space_Recreation.png",
+      "type":"battlepass"
+   },
+   {
+      "name":"Travel Notes - Windblume",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/battlepass/Namecard_Background_Travel_Notes_Windblume.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/battlepass/Item_Travel_Notes_Windblume.png",
+      "type":"battlepass"
+   },
+   {
+      "name":"Inazuma - Kamisato Crest",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/reputation/Namecard_Background_Inazuma_Kamisato_Crest.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/reputation/Item_Inazuma_Kamisato_Crest.png",
+      "type":"reputation"
+   },
+   {
+      "name":"Inazuma - Raiden Emblem",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/reputation/Namecard_Background_Inazuma_Raiden_Emblem.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/reputation/Item_Inazuma_Raiden_Emblem.png",
+      "type":"reputation"
+   },
+   {
+      "name":"Liyue - A Thousand Ships",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/reputation/Namecard_Background_Liyue_A_Thousand_Ships.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/reputation/Item_Liyue_A_Thousand_Ships.png",
+      "type":"reputation"
+   },
+   {
+      "name":"Liyue - In the Clouds",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/reputation/Namecard_Background_Liyue_In_the_Clouds.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/reputation/Item_Liyue_In_the_Clouds.png",
+      "type":"reputation"
+   },
+   {
+      "name":"Mondstadt - Blessing",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/reputation/Namecard_Background_Mondstadt_Blessing.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/reputation/Item_Mondstadt_Blessing.png",
+      "type":"reputation"
+   },
+   {
+      "name":"Mondstadt - Hero's Fame",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/reputation/Namecard_Background_Mondstadt_Hero's_Fame.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/reputation/Item_Mondstadt_Hero's_Fame.png",
+      "type":"reputation"
+   }
+]
