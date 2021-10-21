@@ -268,5 +268,251 @@
       "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/reputation/Namecard_Background_Mondstadt_Hero's_Fame.png",
       "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/reputation/Item_Mondstadt_Hero's_Fame.png",
       "type":"reputation"
+   },
+   {
+      "name":"Albedo - Sun Blossom",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Albedo_Sun_Blossom.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Albedo_Sun_Blossom.png",
+      "type":"character"
+   },
+   {
+      "name":"Aloy - Dawn",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Aloy_Dawn.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Aloy_Dawn.png",
+      "type":"character"
+   },
+   {
+      "name":"Amber - Bunny",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Amber_Bunny.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Amber_Bunny.png",
+      "type":"character"
+   },
+   {
+      "name":"Barbara - Flow",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Barbara_Flow.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Barbara_Flow.png",
+      "type":"character"
+   },
+   {
+      "name":"Beidou - Weighing Anchor",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Beidou_Weighing_Anchor.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Beidou_Weighing_Anchor.png",
+      "type":"character"
+   },
+   {
+      "name":"Bennett - Recognition",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Bennett_Recognition.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Bennett_Recognition.png",
+      "type":"character"
+   },
+   {
+      "name":"Childe - Foul Legacy",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Childe_Foul_Legacy.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Childe_Foul_Legacy.png",
+      "type":"character"
+   },
+   {
+      "name":"Chongyun - Spirit Blade",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Chongyun_Spirit_Blade.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Chongyun_Spirit_Blade.png",
+      "type":"character"
+   },
+   {
+      "name":"Diluc - Flames",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Diluc_Flames.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Diluc_Flames.png",
+      "type":"character"
+   },
+   {
+      "name":"Diona - Meow!",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Diona_Meow!.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Diona_Meow!.png",
+      "type":"character"
+   },
+   {
+      "name":"Eula - Ice-Sealed",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Eula_Ice-Sealed.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Eula_Ice-Sealed.png",
+      "type":"character"
+   },
+   {
+      "name":"Fischl - Night Raven",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Fischl_Night_Raven.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Fischl_Night_Raven.png",
+      "type":"character"
+   },
+   {
+      "name":"Ganyu - Qilin",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Ganyu_Qilin.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Ganyu_Qilin.png",
+      "type":"character"
+   },
+   {
+      "name":"Hu Tao - Spirit Soother",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Hu_Tao_Spirit_Soother.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Hu_Tao_Spirit_Soother.png",
+      "type":"character"
+   },
+   {
+      "name":"Jean - The Winds' Course",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Jean_The_Winds'_Course.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Jean_The_Winds'_Course.png",
+      "type":"character"
+   },
+   {
+      "name":"Kaedehara Kazuha - Autumn Maple-Viewing",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Kaedehara_Kazuha_Autumn_Maple-Viewing.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Kaedehara_Kazuha_Autumn_Maple-Viewing.png",
+      "type":"character"
+   },
+   {
+      "name":"Kaeya - Pavo Ocellus",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Kaeya_Pavo_Ocellus.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Kaeya_Pavo_Ocellus.png",
+      "type":"character"
+   },
+   {
+      "name":"Kamisato Ayaka - Folding Fan",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Kamisato_Ayaka_Folding_Fan.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Kamisato_Ayaka_Folding_Fan.png",
+      "type":"character"
+   },
+   {
+      "name":"Keqing - Lightning Stiletto",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Keqing_Lightning_Stiletto.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Keqing_Lightning_Stiletto.png",
+      "type":"character"
+   },
+   {
+      "name":"Klee - Explosive",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Klee_Explosive.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Klee_Explosive.png",
+      "type":"character"
+   },
+   {
+      "name":"Kujou Sara - Tengu",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Kujou_Sara_Tengu.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Kujou_Sara_Tengu.png",
+      "type":"character"
+   },
+   {
+      "name":"Lisa - Tempus Fugit",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Lisa_Tempus_Fugit.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Lisa_Tempus_Fugit.png",
+      "type":"character"
+   },
+   {
+      "name":"Mona - Starry Sky",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Mona_Starry_Sky.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Mona_Starry_Sky.png",
+      "type":"character"
+   },
+   {
+      "name":"Ningguang - Phoenix",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Ningguang_Phoenix.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Ningguang_Phoenix.png",
+      "type":"character"
+   },
+   {
+      "name":"Noelle - Protector",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Noelle_Protector.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Noelle_Protector.png",
+      "type":"character"
+   },
+   {
+      "name":"Qiqi - Cold Storage",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Qiqi_Cold_Storage.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Qiqi_Cold_Storage.png",
+      "type":"character"
+   },
+   {
+      "name":"Raiden Shogun - Enlightenment",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Raiden_Shogun_Enlightenment.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Raiden_Shogun_Enlightenment.png",
+      "type":"character"
+   },
+   {
+      "name":"Razor - Wolvensprint",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Razor_Wolvensprint.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Razor_Wolvensprint.png",
+      "type":"character"
+   },
+   {
+      "name":"Rosaria - Indenture",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Rosaria_Indenture.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Rosaria_Indenture.png",
+      "type":"character"
+   },
+   {
+      "name":"Sangonomiya Kokomi - The Deep",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Sangonomiya_Kokomi_The_Deep.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Sangonomiya_Kokomi_The_Deep.png",
+      "type":"character"
+   },
+   {
+      "name":"Sayu - Muji-Muji Daruma",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Sayu_Muji-Muji_Daruma.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Sayu_Muji-Muji_Daruma.png",
+      "type":"character"
+   },
+   {
+      "name":"Sucrose - Bio-Alchemy",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Sucrose_Bio-Alchemy.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Sucrose_Bio-Alchemy.png",
+      "type":"character"
+   },
+   {
+      "name":"Thoma - Blazing Guard",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Thoma_Blazing_Guard.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Thoma_Blazing_Guard.png",
+      "type":"character"
+   },
+   {
+      "name":"Venti - Azure Sky",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Venti_Azure_Sky.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Venti_Azure_Sky.png",
+      "type":"character"
+   },
+   {
+      "name":"Xiangling - Fresh from the Pan",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Xiangling_Fresh_from_the_Pan.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Xiangling_Fresh_from_the_Pan.png",
+      "type":"character"
+   },
+   {
+      "name":"Xiao - Mask",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Xiao_Mask.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Xiao_Mask.png",
+      "type":"character"
+   },
+   {
+      "name":"Xingqiu - Rainbow",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Xingqiu_Rainbow.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Xingqiu_Rainbow.png",
+      "type":"character"
+   },
+   {
+      "name":"Xinyan - Song's End",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Xinyan_Song's_End.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Xinyan_Song's_End.png",
+      "type":"character"
+   },
+   {
+      "name":"Yanfei - Impartial",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Yanfei_Impartial.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Yanfei_Impartial.png",
+      "type":"character"
+   },
+   {
+      "name":"Yoimiya - Auratus Spark",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Yoimiya_Auratus_Spark.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Yoimiya_Auratus_Spark.png",
+      "type":"character"
+   },
+   {
+      "name":"Zhongli - Planet Befall",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Zhongli_Planet_Befall.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Zhongli_Planet_Befall.png",
+      "type":"character"
    }
 ]
