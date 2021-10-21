@@ -514,5 +514,65 @@
       "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Zhongli_Planet_Befall.png",
       "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Zhongli_Planet_Befall.png",
       "type":"character"
+   },
+   {
+      "name":"Celebration - Battlesong",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/event/Namecard_Background_Celebration_Battlesong.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/event/Item_Celebration_Battlesong.png",
+      "type":"event"
+   },
+   {
+      "name":"Celebration - Fruit of Wisdom",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/event/Namecard_Background_Celebration_Fruit_of_Wisdom.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/event/Item_Celebration_Fruit_of_Wisdom.png",
+      "type":"event"
+   },
+   {
+      "name":"Celebration - Hypostasis",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/event/Namecard_Background_Celebration_Hypostasis.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/event/Item_Celebration_Hypostasis.png",
+      "type":"event"
+   },
+   {
+      "name":"Celebration - Ikki",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/event/Namecard_Background_Celebration_Ikki.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/event/Item_Celebration_Ikki.png",
+      "type":"event"
+   },
+   {
+      "name":"Celebration - Kaboomball",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/event/Namecard_Background_Celebration_Kaboomball.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/event/Item_Celebration_Kaboomball.png",
+      "type":"event"
+   },
+   {
+      "name":"Celebration - Lantern-Light",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/event/Namecard_Background_Celebration_Lantern-Light.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/event/Item_Celebration_Lantern-Light.png",
+      "type":"event"
+   },
+   {
+      "name":"Celebration - Mechanicus",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/event/Namecard_Background_Celebration_Mechanicus.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/event/Item_Celebration_Mechanicus.png",
+      "type":"event"
+   },
+   {
+      "name":"Celebration - Peekaboo!",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/event/Namecard_Background_Celebration_Peekaboo!.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/event/Item_Celebration_Peekaboo!.png",
+      "type":"event"
+   },
+   {
+      "name":"Celebration - Vastness",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/event/Namecard_Background_Celebration_Vastness.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/event/Item_Celebration_Vastness.png",
+      "type":"event"
+   },
+   {
+      "name":"Celebration - Wondrous Calculation",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/event/Namecard_Background_Celebration_Wondrous_Calculation.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/event/Item_Celebration_Wondrous_Calculation.png",
+      "type":"event"
    }
 ]
