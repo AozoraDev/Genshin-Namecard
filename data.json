@@ -210,6 +210,12 @@
       "type":"battlepass"
    },
    {
+      "name":"Travel Notes - Lyratum",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/battlepass/Namecard_Background_Travel_Notes_Lyratum.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/battlepass/Item_Travel_Notes_Lyratum.png",
+      "type":"battlepass"
+   },
+   {
       "name":"Travel Notes - Midsummer",
       "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/battlepass/Namecard_Background_Travel_Notes_Midsummer.png",
       "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/battlepass/Item_Travel_Notes_Midsummer.png",
@@ -354,9 +360,21 @@
       "type":"character"
    },
    {
+      "name":"Gorou - Leisurely Hound",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Gorou_Leisurely_Hound.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Gorou_Leisurely_Hound.png",
+      "type":"character"
+   },
+   {
       "name":"Hu Tao - Spirit Soother",
       "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Hu_Tao_Spirit_Soother.png",
       "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Hu_Tao_Spirit_Soother.png",
+      "type":"character"
+   },
+   {
+      "name":"Itto - Oni Face",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Itto_Oni_Face.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Itto_Oni_Face.png",
       "type":"character"
    },
    {
