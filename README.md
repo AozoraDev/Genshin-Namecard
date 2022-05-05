@@ -4,4 +4,4 @@ A collection of Genshin Impact namecard backgrounds and icons for non-commercial
 All materials are from [Fandom Wiki: Genshin Impact](https://genshin-impact.fandom.com/wiki/).
 ## Licensing
 All Genshin Impact materials are copyrighted to HoYoverse. \
-For more information, [read this article](https://www.hoyolab.com/article/143107) and read on number 2.
+For more information, [click this article](https://www.hoyolab.com/article/143107) and read on number 2.
