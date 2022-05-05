@@ -162,6 +162,12 @@
       "type":"achievement"
    },
    {
+      "name":"Inazuma - Tokoyo",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Inazuma_Tokoyo.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Inazuma_Tokoyo.png",
+      "type":"achievement"
+   },
+   {
       "name":"Liyue - Stillness of Stone",
       "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/achievement/Namecard_Background_Liyue_Stillness_of_Stone.png",
       "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/achievement/Item_Liyue_Stillness_of_Stone.png",
@@ -195,6 +201,12 @@
       "name":"Travel Notes - Fading Star",
       "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/battlepass/Namecard_Background_Travel_Notes_Fading_Star.png",
       "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/battlepass/Item_Travel_Notes_Fading_Star.png",
+      "type":"battlepass"
+   },
+   {
+      "name":"Travel Notes - Flowing Hues",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/battlepass/Namecard_Background_Travel_Notes_Flowing_Hues.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/battlepass/Item_Travel_Notes_Flowing_Hues.png",
       "type":"battlepass"
    },
    {
@@ -480,6 +492,12 @@
       "type":"character"
    },
    {
+      "name":"Shenhe - Comb",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Shenhe_Comb.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Shenhe_Comb.png",
+      "type":"character"
+   },
+   {
       "name":"Sucrose - Bio-Alchemy",
       "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Sucrose_Bio-Alchemy.png",
       "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Sucrose_Bio-Alchemy.png",
@@ -531,6 +549,12 @@
       "name":"Yoimiya - Auratus Spark",
       "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Yoimiya_Auratus_Spark.png",
       "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Yoimiya_Auratus_Spark.png",
+      "type":"character"
+   },
+   {
+      "name":"Yun Jin - Rhyme",
+      "background":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/background/character/Namecard_Background_Yun_Jin_Rhyme.png",
+      "icon":"https://raw.githubusercontent.com/AozoraDev/Genshin-Namecard/main/item/character/Item_Yun_Jin_Rhyme.png",
       "type":"character"
    },
    {
